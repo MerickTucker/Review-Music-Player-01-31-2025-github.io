@@ -33,7 +33,7 @@
 		flex: 1;
 	}
 	section { 
-	background-color: white;
+	background-color: rgb(85, 170, 235);
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -108,7 +108,7 @@ header {
 }
 
 .bg1 {
-	background-color: #ffe400;
+	background-color: #a462fb;
 }
 
 .bg2 {
