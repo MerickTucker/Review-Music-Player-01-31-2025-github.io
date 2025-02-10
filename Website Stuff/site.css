@@ -33,7 +33,7 @@
 		flex: 1;
 	}
 	section { 
-	background-color: rgb(85, 170, 235);
+	background-color: rgb(218, 221, 69);
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -108,7 +108,7 @@ header {
 }
 
 .bg1 {
-	background-color: #a462fb;
+	background-color: #444ed5;
 }
 
 .bg2 {
@@ -136,5 +136,5 @@ footer {
 }
 
 #incomplete {
-	background-color: red;
+	background-color: rgb(229, 74, 74);
 }
