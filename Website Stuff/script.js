@@ -78,18 +78,28 @@ function main() {
     }
   });
 
-  document.querySelectorAll('section')[1].setAttribute('class', 'bg1');
-  if (isChecklist) {
+  const sections = document.querySelectorAll('section');
+  sections.forEach((section, index) => {
+    section.setAttribute('class', `bg${index + 1}`);
+  });
 
+  if (isChecklist) {
     isAllTagsPresent ?
       document.querySelector('#checklist').setAttribute('id', 'complete') :
       document.querySelector('#checklist').setAttribute('id', 'incomplete');
   }
 }
+
 function createIds() {
   const divs = document.querySelectorAll('div');
 
   divs.forEach((div, index) => div.setAttribute('id', `element-${index}`));
+  // Create additional divs if less than 5
+  for (let i = divs.length; i < 5; i++) {
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', `element-${i}`);
+    document.body.appendChild(newDiv);
+  }
 }
 
 function tagExists(selector) {
