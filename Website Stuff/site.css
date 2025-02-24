@@ -138,3 +138,24 @@ footer {
 #incomplete {
 	background-color: rgb(229, 74, 74);
 }
+
+/* Define background colors for each section */
+.section1 {
+    background-color: #cd1010;
+}
+
+.section2 {
+    background-color: #3030d0;
+}
+
+.section3 {
+    background-color: #eede07;
+}
+
+.section4 {
+    background-color: #aeaeae;
+}
+
+.section5 {
+    background-color: #4fea51;
+}
