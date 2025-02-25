@@ -33,7 +33,7 @@
 		flex: 1;
 	}
 	section { 
-	background-color: rgb(228, 232, 24);
+	background-color: #aeaeae;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -108,15 +108,15 @@ header {
 }
 
 .bg1 {
-	background-color: #444ed5;
+	background-color: #e54a4a;
 }
 
 .bg2 {
-	background-color: #ad1010;
+	background-color: #4b46cd;
 }
 
 .bg3 {
-	background-color: #d2d2d2;
+	background-color: #e8e156;
 }
 
 iframe {
