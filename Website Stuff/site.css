@@ -9,7 +9,7 @@
 
 	}
 	section {
-		background-color: rgb(47, 209, 109);
+		background-color: rgb(182, 28, 28);
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
@@ -136,7 +136,7 @@ footer {
 }
 
 #incomplete {
-	background-color: rgb(130, 232, 134);
+	background-color: rgb(51, 202, 56);
 }
 
 /* Define background colors for each section */
