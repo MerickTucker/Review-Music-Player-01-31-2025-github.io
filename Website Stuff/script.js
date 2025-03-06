@@ -4,56 +4,56 @@ const tagSelectors = [
     name: 'Title',
     parent: 'header',
     sibling: 0,
-    text: 'Put your title here'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'h2',
     name: 'Name',
     parent: 'div#element-0',
     sibling: 0,
-    text: 'Put your name here'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'h3',
     name: 'Grade',
     parent: 'div#element-0',
     sibling: 1,
-    text: 'Put which grade you are in here'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'h4',
     name: '\"Who Am I\" header',
     parent: 'div#element-1',
     sibling: 0,
-    text: 'Put \"Who Am I\" here'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'ul',
     name: 'Unordered list tag',
     parent: 'div#element-1',
     sibling: 1,
-    text: 'Don\'t forget the <ul> tag!'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'li',
     name: 'Description',
     parent: 'div#element-1 ul',
     sibling: 0,
-    text: 'Put something about yourself'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'h1',
     name: 'Image',
     parent: 'div#element-2',
     sibling: 0,
-    text: 'Put an image here'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'p',
     name: 'Image description',
     parent: 'div#element-3',
     sibling: 0,
-    text: 'Put a description of the image here'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
 ]
 
