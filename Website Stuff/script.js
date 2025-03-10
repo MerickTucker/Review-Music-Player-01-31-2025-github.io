@@ -4,56 +4,56 @@ const tagSelectors = [
     name: 'Title',
     parent: 'header',
     sibling: 0,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'one'
   },
   {
     tag: 'h2',
     name: 'Name',
     parent: 'div#element-0',
     sibling: 0,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'two'
   },
   {
     tag: 'h3',
     name: 'Grade',
     parent: 'div#element-0',
     sibling: 1,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'three'
   },
   {
     tag: 'h4',
     name: '\"Who Am I\" header',
     parent: 'div#element-1',
     sibling: 0,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'four'
   },
   {
     tag: 'ul',
     name: 'Unordered list tag',
     parent: 'div#element-1',
     sibling: 1,
-    text: 'balls'
+    text: 'five'
   },
   {
     tag: 'li',
     name: 'Description',
     parent: 'div#element-1 ul',
     sibling: 0,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'six'
   },
   {
     tag: 'h1',
     name: 'Image',
     parent: 'div#element-2',
     sibling: 0,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'seven'
   },
   {
     tag: 'p',
     name: 'Image description',
     parent: 'div#element-3',
     sibling: 0,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'eight'
   },
 ]
 
