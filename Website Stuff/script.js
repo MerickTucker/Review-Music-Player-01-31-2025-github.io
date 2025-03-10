@@ -18,7 +18,7 @@ const tagSelectors = [
     name: 'Grade',
     parent: 'div#element-0',
     sibling: 1,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'balls'
   },
   {
     tag: 'h4',
