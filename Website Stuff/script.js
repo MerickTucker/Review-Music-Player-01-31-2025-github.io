@@ -18,7 +18,7 @@ const tagSelectors = [
     name: 'Grade',
     parent: 'div#element-0',
     sibling: 1,
-    text: 'balls'
+    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
   },
   {
     tag: 'h4',
@@ -32,7 +32,7 @@ const tagSelectors = [
     name: 'Unordered list tag',
     parent: 'div#element-1',
     sibling: 1,
-    text: 'Gee willickers, this is a very nice website. I sure hope nothing bad happens to it.'
+    text: 'balls'
   },
   {
     tag: 'li',
