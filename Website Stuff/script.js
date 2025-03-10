@@ -53,7 +53,6 @@ const tagSelectors = [
     name: 'Image description',
     parent: 'div#element-3',
     sibling: 0,
-    text: 'eight'
   },
 ]
 
