@@ -48,13 +48,7 @@ const tagSelectors = [
     sibling: 0,
     text: 'seven'
   },
-  {
-    tag: 'p',
-    name: 'Image description',
-    parent: 'div#element-3',
-    sibling: 0,
-    text: 'null'
-  },
+
 ]
 
 document.onload = main();
