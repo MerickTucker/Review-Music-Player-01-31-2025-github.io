@@ -48,7 +48,13 @@ const tagSelectors = [
     sibling: 0,
     text: 'seven'
   },
-
+  {
+    tag: 'li',
+    name: 'Description',
+    parent: 'div#element-2',
+    sibling: 0,
+    text: 'Image #2 is what I want my music player to look like'
+  }
 ]
 
 document.onload = main();
