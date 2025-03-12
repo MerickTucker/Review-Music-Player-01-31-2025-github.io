@@ -53,7 +53,7 @@ const tagSelectors = [
     name: 'Description',
     parent: 'div#element-2',
     sibling: 0,
-    text: 'Image #2 is what I want my music player to look like'
+    text: 'if you can read this my website is broken. please contact elon musk about this issue, i am sure he would care about this issue.'
   }
 ]
 
