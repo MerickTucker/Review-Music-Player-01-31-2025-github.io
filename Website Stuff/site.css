@@ -136,15 +136,22 @@ iframe {
 
 footer {
 	height: 100px;
-	background-color: #001bff;
+	background-color: #3cf142;
+}
+
+footer p {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin: 0;
+    padding: 20px;
 }
 
 #complete {
-	background-color: rgb(94, 231, 124);
+	background-color: #b61c1c;
 }
 
 #incomplete {
-	background-color: rgb(51, 202, 56);
+	background-color: #b61c1c;
 }
 
 /* Define background colors for each section */
